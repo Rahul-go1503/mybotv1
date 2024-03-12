@@ -1,0 +1,16 @@
+{
+  "name": "mybotv1",
+  "version": "1.0.0",
+  "description": "This application was created to learn how to develop your Discord bot using node js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rahul Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
